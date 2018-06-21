@@ -1,0 +1,2 @@
+# LearnAzure
+Only for Education
